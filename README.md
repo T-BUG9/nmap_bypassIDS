@@ -1,4 +1,4 @@
-Nmap but can bypassIDS
+nmap but can bypass IDS
 
 tipes
 ------------
