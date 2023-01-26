@@ -11,3 +11,5 @@ Ideally, you should be able to just type:
     ./configure
     make
     make install
+
+this just modify from original code,if you can't use right options to change it it's also will cause alerm.
